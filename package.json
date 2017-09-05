@@ -1,6 +1,6 @@
 {
   "name": "redeploy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deploys your subreddit stylesheets to reddit.com",
   "main": "index.js",
   "repository": "https://github.com/VolunteerLiveTeam/redeploy",
