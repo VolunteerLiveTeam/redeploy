@@ -1,0 +1,17 @@
+{
+  "name": "redeploy",
+  "version": "1.0.0",
+  "description": "Deploys your subreddit stylesheets to reddit.com",
+  "main": "index.js",
+  "repository": "https://github.com/VolunteerLiveTeam/redeploy",
+  "author": "Kailan Blanks <kailan@kmp.pw>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "snoowrap": "^1.14.2",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
